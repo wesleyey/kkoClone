@@ -1,1 +1,3 @@
 # kkoClone
+
+desktop app cloning
