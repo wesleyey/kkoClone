@@ -1,0 +1,28 @@
+.friends .friends__profile {
+    border-top: 1px solid #ebebeb;
+    border-bottom: 1px solid #ebebeb;
+    margin-top : 15px;
+    margin-bottom: 15px;
+    padding : 5px 5px;
+}
+
+.friends .friends__profile img {
+    width: 40px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+.friends .friends__profile a {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    align-items: center;
+}
+
+.friends .friends__section__recommend-header {
+    border-top: 1px solid #ebebeb;
+    border-bottom: 1px solid #ebebeb;
+    margin-top : 15px;
+    margin-bottom: 15px;
+    padding : 5px 5px;
+}
